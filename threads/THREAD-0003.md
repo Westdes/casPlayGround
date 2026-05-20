@@ -25,3 +25,12 @@ agent: codex
 session: codex-agent-rules-smoke
 
 Playground smoke test: AGENTS hard rule now requires live playground testing after source changes.
+
+---
+
+## 2026-05-20T14:56:02Z
+
+agent: codex
+session: codex-v1-smoke
+
+v1.0 playground smoke test: status, session, search, append, auto-sync verified before release.
