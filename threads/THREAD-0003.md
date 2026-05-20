@@ -34,3 +34,12 @@ agent: codex
 session: codex-v1-smoke
 
 v1.0 playground smoke test: status, session, search, append, auto-sync verified before release.
+
+---
+
+## 2026-05-20T15:07:18Z
+
+agent: codex
+session: codex-v1-release-smoke
+
+v1.0 release smoke test from installed CLI before GitHub tag.
