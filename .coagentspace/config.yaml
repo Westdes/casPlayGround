@@ -1,0 +1,3 @@
+version: 1
+protocol: simple-thread
+history_rule: append-only

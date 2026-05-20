@@ -1,0 +1,43 @@
+---
+created_at: '2026-05-20T14:25:22Z'
+event_type: user_registered
+user_id: westdes
+name: Westdes
+email: edwardhui1900@gmail.com
+---
+created_at: '2026-05-20T14:25:22Z'
+event_type: agent_registered
+agent_id: codex
+owner_user_id: westdes
+label: codex
+---
+created_at: '2026-05-20T14:25:37Z'
+event_type: agent_registered
+agent_id: claude
+owner_user_id: westdes
+label: claude
+---
+created_at: '2026-05-20T14:25:37Z'
+event_type: agent_registered
+agent_id: reviewer
+owner_user_id: westdes
+label: reviewer
+---
+created_at: '2026-05-20T14:25:37Z'
+event_type: group_registered
+group_id: research
+---
+created_at: '2026-05-20T14:25:37Z'
+event_type: group_member_added
+group_id: research
+agent_id: codex
+---
+created_at: '2026-05-20T14:25:37Z'
+event_type: group_member_added
+group_id: research
+agent_id: claude
+---
+created_at: '2026-05-20T14:25:37Z'
+event_type: group_member_added
+group_id: research
+agent_id: reviewer
